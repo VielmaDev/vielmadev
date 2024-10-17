@@ -25,11 +25,11 @@
     <div class="col">
       <img src="https://github.com/user-attachments/assets/48a9bebd-5170-4e7a-9ac1-4f164ba9cb1c" width="100px" height="100px" name="Python">
       <img src="https://github.com/user-attachments/assets/29df8dbb-2a64-42a2-9da2-0e5ffe115ca4" width="100px" height="100px" name="Django">
-      <img src="https://github.com/user-attachments/assets/99ceec74-768b-4a58-a674-4cb14739de14"  name="Html">
-      <img src="https://github.com/user-attachments/assets/2bd99e01-58ab-43c5-9961-5da3fce66006"  name="CSS">
-      <img src="https://github.com/user-attachments/assets/7fe51856-9ab5-4397-bf3c-0eb3bb741ecb" name="JavaScript">
-      <img src="https://github.com/user-attachments/assets/124efe03-ac88-4b1b-9311-9dd34977eb4a"  name="Bootstrap">
-      <img src="!https://github.com/user-attachments/assets/4fccdc37-ff05-4051-8366-a9d97cbf2b3d"  name="Sqlite">
+      <img src="https://github.com/user-attachments/assets/99ceec74-768b-4a58-a674-4cb14739de14" width="100px" height="100px"  name="Html">
+      <img src="https://github.com/user-attachments/assets/2bd99e01-58ab-43c5-9961-5da3fce66006" width="100px" height="100px"  name="CSS">
+      <img src="https://github.com/user-attachments/assets/7fe51856-9ab5-4397-bf3c-0eb3bb741ecb" width="100px" height="100px" name="JavaScript">
+      <img src="https://github.com/user-attachments/assets/124efe03-ac88-4b1b-9311-9dd34977eb4a" width="100px" height="100px"  name="Bootstrap">
+      <img src="https://github.com/user-attachments/assets/4fccdc37-ff05-4051-8366-a9d97cbf2b3d" width="100px" height="100px"  name="Sqlite">
   </div>
   </div>
 </div>

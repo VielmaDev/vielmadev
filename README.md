@@ -4,19 +4,18 @@
 
 <div class="container">
   <h1>Hola!👋, mi nombre es José Vielma</h1>
-  <h3 text-aling="center">Soy desarrollador Frontend, autodidacta, con pasión por el diseño de web y aplicaciones desktop. </h3>
+  <h3>Soy Web developer autodidacta, con pasión por el diseño y desarrollo de aplicaciones funcionales. </h3>
 </div>
 
 <div class="container">
   <h3>
-    La programación impulsa mi creatividad, transformando mis ideas 💡 en realidades digitales. Me gusta explorar las nuevas tecnologías 🤖, que son tendencia y que me permiten 
-    mejorar cada día mis habilidades y ofrecer así, soluciones vanguardistas que se adapten a las diversas necesidades 🚀.
+    La programación ha impulsado mi creatividad, transformando mis ideas 💡 en realidades digitales. Me gusta explorar las nuevas tecnologías 🤖 que son tendencia en el mercado y que me permiten mejorar mis habilidades para así ofrecer soluciones vanguardistas que se adapten a las diversas necesidades 🚀.
   </h3>
 </div>
 
 <div class="container">
   <h3>
-    Tecnologías de uso:
+    Las Tecnologías de uso habitual son:
   </h3>
 </div>
 

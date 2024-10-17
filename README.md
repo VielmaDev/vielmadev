@@ -9,13 +9,13 @@
 
 <div class="container">
   <h3>
-    La programación ha impulsado mi creatividad, transformando mis ideas 💡 en realidades digitales. Me gusta explorar las nuevas tecnologías 🤖 que son tendencia en el mercado y que me permiten mejorar mis habilidades para así ofrecer soluciones vanguardistas que se adapten a las diversas necesidades 🚀.
+    La programación ha impulsado mi creatividad, transformando mis ideas 💡 en realidades digitales. Me gusta explorar las nuevas tecnologías 🤖 que son tendencia en el mercado y que me permiten mejorar mis habilidades, para así ofrecer soluciones vanguardistas que se adapten a las diversas necesidades 🚀.
   </h3>
 </div>
 
 <div class="container">
   <h3>
-    Las Tecnologías de uso habitual son:
+    Las tecnologías de uso habitual en mis proyectos son:
   </h3>
 </div>
 

@@ -30,6 +30,8 @@
       <img src="https://github.com/user-attachments/assets/7fe51856-9ab5-4397-bf3c-0eb3bb741ecb" width="100px" height="100px" name="JavaScript">
       <img src="https://github.com/user-attachments/assets/124efe03-ac88-4b1b-9311-9dd34977eb4a" width="100px" height="100px"  name="Bootstrap">
       <img src="https://github.com/user-attachments/assets/4fccdc37-ff05-4051-8366-a9d97cbf2b3d" width="100px" height="100px"  name="Sqlite">
+      <img src="https://github.com/user-attachments/assets/1deeee2e-e4f6-4138-82f2-090e479a60d5" width="100px" height="100px"  name="Apis">
+      <img src="https://github.com/user-attachments/assets/1d509e6a-e3f1-4efc-93aa-98df00fe97c9" width="100px" height="100px"  name="Git">
   </div>
   </div>
 </div>

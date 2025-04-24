@@ -4,12 +4,12 @@
 
 <div class="container">
   <h1>Hola!👋, mi nombre es José Vielma</h1>
-  <h3>Soy Web developer autodidacta, con pasión por el diseño y desarrollo de aplicaciones funcionales. </h3>
+  <h3>Soy Python developer, con pasión por el desarrollo de web app y desktop. </h3>
 </div>
 
 <div class="container">
   <h3>
-    La programación ha impulsado mi creatividad, transformando mis ideas 💡 en realidades digitales. Me gusta explorar las nuevas tecnologías 🤖 que son tendencia en el mercado y que me permiten mejorar mis habilidades, para así ofrecer soluciones vanguardistas que se adapten a las diversas necesidades 🚀.
+    La programación en Python me ha permitido impulsar mi creatividad, transformando ideas 💡 en realidades digitales. Me gusta explorar las nuevas tecnologías 🤖 que son tendencia en el mercado y que me permiten mejorar mis habilidades, y de esta manera ofrecer soluciones vanguardistas que se adapten a las diversas necesidades 🚀.
   </h3>
 </div>
 

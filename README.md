@@ -4,18 +4,18 @@
 
 <div class="container">
   <h1>Hola!👋, mi nombre es José Vielma</h1>
-  <h3>Soy Python developer, con pasión por el desarrollo de web app y desktop. </h3>
+  <h3>Soy desarrollador Python, me especializo en el desarrollo de website y desktop app. </h3>
 </div>
 
 <div class="container">
   <h3>
-    La programación en Python me ha permitido impulsar mi creatividad, transformando ideas 💡 en realidades digitales. Me gusta explorar las nuevas tecnologías 🤖 que son tendencia en el mercado y que me permiten mejorar mis habilidades, y de esta manera ofrecer soluciones vanguardistas que se adapten a las diversas necesidades 🚀.
+    Me inicialice en la progración en Python porque es un lenguaje muy versatil que se adapta a las nuevas tendencias tecnológicas del mercado, con el he podido crecer a nivel profesional como desarrollador, permitiendome crear proyectos donde las ideas y cretividad se transforman en soluciones vanguardistas, funcionales e innovadoras, adaptadas a las diversas necesidades. 
   </h3>
 </div>
 
 <div class="container">
   <h3>
-    Las tecnologías de uso habitual en mis proyectos son:
+    Generalmente en mis proyectos uso las siguientes herramientas de desarrollo:
   </h3>
 </div>
 

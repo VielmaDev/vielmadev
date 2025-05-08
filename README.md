@@ -8,9 +8,9 @@
 </div>
 
 <div class="container">
-  <h3>
-    Me inicialice en la progración en Python porque es un lenguaje muy versatil que se adapta a las nuevas tendencias tecnológicas del mercado, con el he podido crecer a nivel profesional como desarrollador, permitiendome crear proyectos donde las ideas y cretividad se transforman en soluciones vanguardistas, funcionales e innovadoras, adaptadas a las diversas necesidades. 
-  </h3>
+  <h4>
+    Me inicialice en la progración en Python porque es un lenguaje muy versatil que se adapta a las nuevas tendencias tecnológica, con el he podido crecer a nivel profesional como desarrollador, permitiendome crear proyectos donde las ideas y cretividad se transforman en soluciones vanguardistas, funcionales e innovadoras, adaptadas a las diversas necesidades del mercado. 
+  </h4>
 </div>
 
 <div class="container">

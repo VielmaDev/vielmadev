@@ -4,7 +4,7 @@
 
 <div class="container">
   <h1>Hola!👋, mi nombre es José Vielma</h1>
-  <h3>Soy desarrollador Python, me especializo en website y desktop app. </h3>
+  <h4>Soy desarrollador Python, me especializo en website y desktop app. </h4>
 </div>
 
 <div class="container">
@@ -16,9 +16,9 @@
 </div>
 
 <div class="container">
-  <h3>
+  <h4>
     Generalmente en mis proyectos uso las siguientes herramientas de desarrollo:
-  </h3>
+  </h4>
 </div>
 
 <!--Logos-->

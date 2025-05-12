@@ -4,12 +4,14 @@
 
 <div class="container">
   <h1>Hola!👋, mi nombre es José Vielma</h1>
-  <h3>Soy desarrollador Python,y me especializo en website y desktop app. </h3>
+  <h3>Soy desarrollador Python, me especializo en website y desktop app. </h3>
 </div>
 
 <div class="container">
   <h4>
-    Me inicialice en este lenguaje de programación porque es un lenguaje muy versatil que se adapta a las nuevas tendencias tecnológicas, con el he podido crecer a nivel profesional como desarrollador, permitiendome crear proyectos donde las ideas y cretividad se transforman en soluciones vanguardistas, funcionales e innovadoras, adaptadas a las diversas necesidades del mercado. 
+    Me inicialice en este lenguaje de programación porque muy versatil y se adapta a las nuevas tendencias tecnológicas.</h4> 
+
+<h4>He podido crecer profesionalmente como desarrollador, y crear proyectos donde las ideas y cretividad se transforman en soluciones vanguardistas, funcionales e innovadoras, adaptadas a las diversas necesidades del mercado. 
   </h4>
 </div>
 

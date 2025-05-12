@@ -10,7 +10,7 @@
 <div class="container">
   <h4>Me inicialice en este lenguaje de programación porque es muy versatil y se adapta a las nuevas tendencias tecnológicas.</h4> 
 
-<h4>Con Python a nivel profesional he podido desarrollar proyectos donde las ideas y la creatividad se transforman en soluciones vanguardistas, funcionales e innovadoras, adaptadas a las diversas necesidades del mercado. 
+<h4>Con Python a nivel profesional he desarrollado proyectos donde las ideas y la creatividad se transforman en soluciones vanguardistas, funcionales e innovadoras, adaptadas a las diversas necesidades del mercado. 
   </h4>
 </div>
 

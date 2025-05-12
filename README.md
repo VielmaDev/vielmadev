@@ -9,9 +9,9 @@
 
 <div class="container">
   <h4>
-    Me inicialice en este lenguaje de programación porque muy versatil y se adapta a las nuevas tendencias tecnológicas.</h4> 
+    Me inicialice en este lenguaje de programación porque es muy versatil y se adapta a las nuevas tendencias tecnológicas.</h4> 
 
-<h4>He podido crecer profesionalmente como desarrollador, y crear proyectos donde las ideas y cretividad se transforman en soluciones vanguardistas, funcionales e innovadoras, adaptadas a las diversas necesidades del mercado. 
+<h4>A nivel profesional como desarrollador Python, he podido crear proyectos donde las ideas y creatividad se transforman en soluciones vanguardistas, funcionales e innovadoras, adaptadas a las diversas necesidades del mercado. 
   </h4>
 </div>
 

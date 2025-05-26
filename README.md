@@ -4,7 +4,7 @@
 
 <div class="container">
   <h1>Hola!👋, mi nombre es José Vielma</h1>
-  <h4>Soy desarrollador Python, me especializo en website y desktop app. </h4>
+  <h3>Soy desarrollador Python, me especializo en website y desktop app. </h3>
 </div>
 
 <div class="container">
@@ -15,8 +15,7 @@
 </div>
 
 <div class="container">
-  <h4>Mis proyectos están creados con las siguientes herramientas de desarrollo:
-  </h4>
+  <h3>Mis proyectos están creados con las siguientes herramientas de desarrollo:</h3>
 </div>
 
 <!--Logos-->
@@ -31,9 +30,9 @@
       <img src="https://github.com/user-attachments/assets/124efe03-ac88-4b1b-9311-9dd34977eb4a" width="100px" height="100px"  name="Bootstrap">
       <img src="https://github.com/user-attachments/assets/1deeee2e-e4f6-4138-82f2-090e479a60d5" width="100px" height="100px"  name="Apis">
       <img src="https://github.com/user-attachments/assets/4fccdc37-ff05-4051-8366-a9d97cbf2b3d" width="100px" height="100px"  name="Sqlite">
-<img src="https://github.com/user-attachments/assets/1d509e6a-e3f1-4efc-93aa-98df00fe97c9" width="100px" height="100px"  name="Git">
+      <img src="https://github.com/user-attachments/assets/1d509e6a-e3f1-4efc-93aa-98df00fe97c9" width="100px" height="100px"  name="Git">
       <img src="https://github.com/user-attachments/assets/b296991e-ee5a-4c71-b4d8-ffc7343ebe94" width="100px" height="100px"  name="GitHub">
-  </div>
+    </div>
   </div>
 </div>
 

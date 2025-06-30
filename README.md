@@ -8,14 +8,14 @@
 </div>
 
 <div class="container">
-  <h3>Me inicialice en la programación porque es un oficio muy versatil que se adapta a las nuevas tendencias tecnológicas.</h3> 
+  <h3>Me inicialice en la programación porque es un oficio muy versátil que se adapta a las tendencias tecnológicas.</h3> 
 
 <h3>Python es uno de los lenguajes en los que me especializo  a nivel profesional, desarrollando diversos proyectos básicos donde las ideas y la creatividad se transforman en soluciones vanguardistas, funcionales e innovadoras. 
   </h3>
 </div>
 
 <div class="container">
-  <h3>Lenguaje:</h3>
+  <h3>Lenguajes:</h3>
 </div>
 
 <div class="container">
@@ -40,7 +40,6 @@
   <h3>Marco Backend:</h3>
 </div>
 
-<!--Logos-->
 <div class="container">
     <div class="col">
       <img src="https://github.com/user-attachments/assets/b4319202-197e-44cc-b02b-02d5b0da0fbb" width="100px" height="100px" name="Django">

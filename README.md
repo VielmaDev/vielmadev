@@ -4,13 +4,13 @@
 
 <div class="container">
   <h1>Hola!👋, mi nombre es José Vielma</h1>
-  <h3>Soy programador, me especializo en el desarrollo de website y desktop app. </h3>
+  <h3>Soy programador, con competencias en el desarrollo de website y desktop app. </h3>
 </div>
 
 <div class="container">
   <h3>Me inicialice en la programación porque es un oficio muy versátil que se adapta a las tendencias tecnológicas.</h3> 
 
-<h3>Python es uno de los lenguajes en los que me especializo  a nivel profesional, desarrollando diversos proyectos básicos donde las ideas y la creatividad se transforman en soluciones vanguardistas, funcionales e innovadoras. 
+<h3>Python es uno de los lenguajes en el que me especializo a nivel profesional, desarrollando diversos proyectos donde las ideas y la creatividad se transforman en soluciones vanguardistas, funcionales e innovadoras. 
   </h3>
 </div>
 

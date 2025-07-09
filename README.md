@@ -46,7 +46,7 @@
       <img src="https://github.com/user-attachments/assets/33808f35-6bdb-4a24-8662-cdde5b5b14a4" width="100px" height="100px" name="Flutter">
       <img src="https://github.com/user-attachments/assets/1deeee2e-e4f6-4138-82f2-090e479a60d5" width="100px" height="100px"  name="Apis">
       <img src="https://github.com/user-attachments/assets/4fccdc37-ff05-4051-8366-a9d97cbf2b3d" width="100px" height="100px"  name="Sqlite">
-      <img src="https://github.com/user-attachments/assets/62b46c2b-d3f8-48b0-a7ce-5194040f2965" width="100px" height="100px"  name="Git">
+      <img src="https://github.com/user-attachments/assets/8988c751-51e8-46b9-933c-edd767b1bf6f" width="100px" height="100px"  name="Git">
     </div>
 </div>
 

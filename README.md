@@ -4,7 +4,7 @@
 
 <div class="container">
   <h1>Hola!👋, mi nombre es José Vielma</h1>
-  <h3>Soy programador con competencias en el desarrollo de website y desktop app. </h3>
+  <h3>Soy programador con competencias en el desarrollo de website y desktop app 💻📱. </h3>
 </div>
 
 <div class="container">

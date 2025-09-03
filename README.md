@@ -50,3 +50,13 @@
     </div>
 </div>
 
+<div class="container">
+  <h3>Data analysis:</h3>
+</div>
+
+<div class="container">
+    <div class="col">
+      <img src="https://github.com/user-attachments/assets/7bcc1450-015b-4bde-afdb-ed80775c27f2" height="100px" name="Power BI">
+    </div>
+</div>
+

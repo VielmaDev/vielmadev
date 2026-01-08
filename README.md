@@ -12,7 +12,11 @@
 </div>
 
 <div class="container">
-  <h3>Lenguajes:</h3>
+  <h3>Entre las herramientas que utilizo se encuentran:.</h3> 
+</div>
+
+<div class="container">
+  <h3>Lenguajes.</h3>
 </div>
 
 <div class="container">
@@ -24,7 +28,7 @@
 </div>
 
 <div class="container">
-  <h3>Marco Frontend:</h3>
+  <h3>Frontend.</h3>
 </div>
 
 <div class="container">
@@ -35,7 +39,7 @@
 </div>
 
 <div class="container">
-  <h3>Marco Backend:</h3>
+  <h3>Backend.</h3>
 </div>
 
 <div class="container">
@@ -48,7 +52,7 @@
 </div>
 
 <div class="container">
-  <h3>Data analysis:</h3>
+  <h3>Análisis.</h3>
 </div>
 
 <div class="container">

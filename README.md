@@ -43,7 +43,7 @@
 </div>
 
 <div class="container">
-  <h3>Análisis.</h3>
+  <h3>Data Analysis.</h3>
 </div>
 
 <div class="container">

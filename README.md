@@ -12,7 +12,7 @@
 </div>
 
 <div class="container">
-  <h3>Entre las herramientas que utilizo se encuentran:.</h3> 
+  <h3>Entre las herramientas que utilizo se encuentran:</h3> 
 </div>
 
 <div class="container">

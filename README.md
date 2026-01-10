@@ -4,15 +4,16 @@
 
 <div class="container">
   <h1>Hola! me llamo José 👋</h1>
-  <h3>Soy Jr. Full Stack Developer, con competencias en el desarrollo de software (Desktop App / Website).</h3>
+  <h3>Soy Programador Python, con competencias en Backend y Frontend para el desarrollo de Website y App. En la actualidad
+    poseo un nivel de experiencia como Jr. Software Developer.</h3>
+</div>
+ 
+<div class="container">
+  <h3>He desarrollando diversos proyectos de prácticas, los cuales puedes consultar aquí en mi perfil en la sección de "Repositorios" 💼.</h3> 
 </div>
 
 <div class="container">
-  <h3>Me especializo en el lenguaje de programación Python, con el cual he desarrollando diversos proyectos los cuales puedes consultar aquí en la sección "Repositorios".</h3> 
-</div>
-
-<div class="container">
-  <h3>Entre las herramientas que utilizo se encuentran:</h3> 
+  <h3>Entre las herramientas que más utilizo se encuentran:</h3> 
 </div>
 
 <div class="container">
@@ -38,6 +39,15 @@
       <img src="https://github.com/user-attachments/assets/b4319202-197e-44cc-b02b-02d5b0da0fbb" width="100px" height="100px" name="Django">
       <img src="https://github.com/user-attachments/assets/1deeee2e-e4f6-4138-82f2-090e479a60d5" width="100px" height="100px"  name="Apis">
       <img src="https://github.com/user-attachments/assets/4fccdc37-ff05-4051-8366-a9d97cbf2b3d" width="100px" height="100px"  name="Sqlite">
+    </div>
+</div>
+
+<div class="container">
+  <h3>Version Control</h3>
+</div>
+
+<div class="container">
+    <div class="col">
       <img src="https://github.com/user-attachments/assets/8988c751-51e8-46b9-933c-edd767b1bf6f" width="100px" height="100px"  name="Git">
     </div>
 </div>

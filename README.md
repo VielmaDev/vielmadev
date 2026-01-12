@@ -4,8 +4,8 @@
 
 <div class="container">
   <h1>Hola! me llamo José 👋</h1>
-  <h3>Soy Programador Python, con competencias en Backend y Frontend para el desarrollo de Website y App. En la actualidad
-    poseo un nivel de experiencia como Jr. Software Developer.</h3>
+  <h3>Soy Programador Python, con competencias en Backend y Frontend para el desarrollo de Website y App. Mi nivel de experiencia en la 
+      actualidad es de Jr. Software Developer 🚀.</h3>
 </div>
  
 <div class="container">

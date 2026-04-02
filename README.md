@@ -17,7 +17,7 @@
 </div>
 
 <div class="container">
-  <h3>Lenguaje programación</h3>
+  <h3>Programming language.</h3>
 </div>
 
 <div class="container">
@@ -50,7 +50,7 @@
 </div>
 
 <div class="container">
-  <h3>Data Base</h3>
+  <h3>DataBase.</h3>
 </div>
 
 <div class="container">
@@ -61,7 +61,7 @@
 </div>
 
 <div class="container">
-  <h3>Version Control</h3>
+  <h3>Version Control.</h3>
 </div>
 
 <div class="container">

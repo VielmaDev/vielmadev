@@ -4,16 +4,12 @@
 
 <div class="container">
   <h1>Hola! me llamo José 👋</h1>
-  <h3>Soy Programador Python, con competencias en desarrollo Backend y Frontend para Website y App. Mi nivel de conocimiento en la 
+  <h3>Soy Programador Python, con competencias en desarrollo Backend y Frontend para multiplataformas (Desk, Web y App móviles). Mi nivel de conocimiento en la 
       actualidad es de Jr. Software Developer 🚀.</h3>
 </div>
  
 <div class="container">
   <h3>He desarrollando diversos proyectos de prácticas, los cuales puedes consultar aquí en mi perfil en la sección de "Repositorios" 💼.</h3> 
-</div>
-
-<div class="container">
-  <h3>Entre las herramientas que más utilizo se encuentran:</h3> 
 </div>
 
 <div class="container">

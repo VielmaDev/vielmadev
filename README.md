@@ -29,7 +29,7 @@
 <div class="container">
   <div class="row">
     <img src="https://github.com/user-attachments/assets/adb19d35-8e8d-44bb-ba74-7aef8e7a5067" width="110px" height="110px" name="Html">
-    <img src="https://github.com/user-attachments/assets/8ba3acc4-be5c-4b51-a9e9-fe6f413b38f3" width="95px" height="95px"  name="CSS">
+    <img src="https://github.com/user-attachments/assets/8ba3acc4-be5c-4b51-a9e9-fe6f413b38f3" width="93px" height="93px"  name="CSS">
     <img src="https://github.com/user-attachments/assets/124efe03-ac88-4b1b-9311-9dd34977eb4a" width="100px" height="100px"  name="Bootstrap">
   </div>
 </div>

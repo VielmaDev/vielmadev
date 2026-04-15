@@ -20,7 +20,7 @@
   <div class="row">
       <img src="https://github.com/user-attachments/assets/48a9bebd-5170-4e7a-9ac1-4f164ba9cb1c" width="100px" height="100px" name="Python">
       <img src="https://github.com/user-attachments/assets/adb19d35-8e8d-44bb-ba74-7aef8e7a5067" width="110px" height="110px" name="Html">
-      <img src="https://github.com/user-attachments/assets/8ba3acc4-be5c-4b51-a9e9-fe6f413b38f3" width="100px" height="100px"  name="CSS">
+      <img src="https://github.com/user-attachments/assets/8ba3acc4-be5c-4b51-a9e9-fe6f413b38f3" width="95px" height="95px"  name="CSS">
   </div>
 </div>
 

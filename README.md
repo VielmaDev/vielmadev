@@ -19,7 +19,7 @@
 <div class="container">
   <div class="row">
       <img src="https://github.com/user-attachments/assets/48a9bebd-5170-4e7a-9ac1-4f164ba9cb1c" width="100px" height="100px" name="Python">
-      <img src="https://github.com/user-attachments/assets/99ceec74-768b-4a58-a674-4cb14739de14" width="100px" height="100px"  name="Html">
+      <img width="512" height="512" alt="material-icon-theme--html" src="https://github.com/user-attachments/assets/adb19d35-8e8d-44bb-ba74-7aef8e7a5067" name="Html">
       <img src="https://github.com/user-attachments/assets/2bd99e01-58ab-43c5-9961-5da3fce66006" width="100px" height="100px"  name="CSS">
   </div>
 </div>

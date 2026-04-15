@@ -57,7 +57,7 @@
 </div>
 
 <div class="container">
-  <h3>Version Control.</h3>
+  <h3>Version:</h3>
 </div>
 
 <div class="container">

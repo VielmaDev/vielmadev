@@ -57,6 +57,16 @@
 </div>
 
 <div class="container">
+  <h3>IA:</h3>
+</div>
+
+<div class="container">
+    <div class="col">
+      <img src="https://github.com/user-attachments/assets/fe004d28-a0b7-4dae-8c41-674a4c0ba474" width="100px" height="100px"  name="Geminis">
+    </div>
+</div>
+
+<div class="container">
   <h3>Version:</h3>
 </div>
 

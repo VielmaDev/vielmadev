@@ -19,8 +19,8 @@
 <div class="container">
   <div class="row">
       <img src="https://github.com/user-attachments/assets/48a9bebd-5170-4e7a-9ac1-4f164ba9cb1c" width="100px" height="100px" name="Python">
-      <img width="512" height="512" alt="material-icon-theme--html" src="https://github.com/user-attachments/assets/adb19d35-8e8d-44bb-ba74-7aef8e7a5067" name="Html">
-      <img src="https://github.com/user-attachments/assets/2bd99e01-58ab-43c5-9961-5da3fce66006" width="100px" height="100px"  name="CSS">
+      <img src="https://github.com/user-attachments/assets/adb19d35-8e8d-44bb-ba74-7aef8e7a5067" width="100px" height="100px" name="Html">
+      <img src="https://github.com/user-attachments/assets/8ba3acc4-be5c-4b51-a9e9-fe6f413b38f3" width="100px" height="100px"  name="CSS">
   </div>
 </div>
 

@@ -82,6 +82,7 @@
 
 <div class="container">
     <div class="col">
+      <<img width="512" height="512" alt="vscode-icons--file-type-excel" src="https://github.com/user-attachments/assets/5db0e6d9-6819-4830-80e8-4e2954a7479c" />
       <img src="https://github.com/user-attachments/assets/7bcc1450-015b-4bde-afdb-ed80775c27f2" height="100px" name="Power BI">
     </div>
 </div>

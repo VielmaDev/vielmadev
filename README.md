@@ -3,13 +3,13 @@
 </div>
 
 <div class="container">
-  <h1>Hola! me llamo José 👋</h1>
-  <h3>Soy Programador Python, con competencias en desarrollo Backend y Frontend para multiplataformas (Desk, Web y App móviles). Mi nivel de conocimiento en la 
-      actualidad es de Jr. Software Developer 🚀.</h3>
+  <h1>Hola! me llamo José 😺</h1>
+  <h3>Soy programador, me especializo en el lenguaje Python, poseo competencias en desarrollo Backend y Frontend para Desktop, Web y App. Mi nivel de conocimiento y experiencia en la 
+      actualidad es de Jr. Software Developer🚀.</h3>
 </div>
  
 <div class="container">
-  <h3>He desarrollando diversos proyectos de prácticas, los cuales puedes consultar aquí en mi perfil en la sección de "Repositorios" 💼.</h3> 
+  <h3>Mis proyectos son prácticas son diversos, su esquema de desarrollo los cuales puedes consultar en mi perfil en la sección de "Repositorios" 💼.</h3> 
 </div>
 
 <div class="container">

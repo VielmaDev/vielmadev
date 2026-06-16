@@ -1,5 +1,5 @@
 <div class="container">
-  <img src="<img width="1584" height="396" alt="José Vielma" src="https://github.com/user-attachments/assets/3416d338-83f7-4123-baaa-34efa26af7bd"/>
+  <img src="https://github.com/user-attachments/assets/3416d338-83f7-4123-baaa-34efa26af7bd"/>
 </div>
 
 <div class="container">

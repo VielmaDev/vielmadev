@@ -9,7 +9,7 @@
 </div>
  
 <div class="container">
-  <h3>Mis proyectos son variados y forman parte de prácticas de programación, su esquema de desarrollo los cuales puedes consultar en mi perfil en la sección de "Repositorios" 💼.</h3> 
+  <h3>Mis proyectos son variados y forman parte de prácticas de programación, y su esquema de desarrollo los puedes consultar en mi perfil en la sección de "Repositorios" 💼.</h3> 
 </div>
 
 <div class="container">

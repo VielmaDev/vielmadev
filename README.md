@@ -1,5 +1,5 @@
 <div class="container">
-  <img src="https://github.com/user-attachments/assets/81ddd0f5-b88b-4e40-b8bb-5f76a436d8ca"/>
+  <img src="https://github.com/user-attachments/assets/e1c96a95-8122-44a1-8c10-690d57522aaf"/>
 </div>
 
 <div class="container">

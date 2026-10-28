@@ -17,7 +17,7 @@
 
 <div class="container">
   <div class="row">
-      <img src="https://github.com/user-attachments/assets/48a9bebd-5170-4e7a-9ac1-4f164ba9cb1c" width="100px" height="100px" name="Python"/>
+      <img src="https://github.com/user-attachments/assets/48a9bebd-5170-4e7a-9ac1-4f164ba9cb1c" width="110px" height="110px" name="Python"/>
   </div>
 </div>
 
@@ -61,7 +61,7 @@
 
 <div class="container">
     <div class="col">
-      <img src="https://github.com/user-attachments/assets/219fe51e-e345-4409-8a13-ca4b4c34d65a" width="100px" height="100px" name="Visual Studio Code"/>
+      <img src="https://github.com/user-attachments/assets/219fe51e-e345-4409-8a13-ca4b4c34d65a" width="98px" height="98px" name="Visual Studio Code"/>
     </div>
 </div>
 

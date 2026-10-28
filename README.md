@@ -61,7 +61,7 @@
 
 <div class="container">
     <div class="col">
-      <img src="https://github.com/user-attachments/assets/219fe51e-e345-4409-8a13-ca4b4c34d65a" name="Visual Studio Code"/>
+      <img src="https://github.com/user-attachments/assets/219fe51e-e345-4409-8a13-ca4b4c34d65a" width="100px" height="100px" name="Visual Studio Code"/>
     </div>
 </div>
 

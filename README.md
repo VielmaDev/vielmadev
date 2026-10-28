@@ -3,12 +3,12 @@
 </div>
 
 <div class="container">
-  <h1>Hola! me llamo José 😺</h1>
-  <h3>Soy programador en lenguaje Python, poseo competencias en desarrollo Backend y Frontend para App, Web y Desktop. Siempre estoy en constante formación y mi nivel de conocimiento y experiencia en la actualidad es de Jr. Software Developer.</h3>
+  <h1>Hola 🖐! me llamo José</h1>
+  <h3>Soy programador en lenguaje Python con competencia en desarrollo Backend y Frontend a nivel intermedio, siempre me encuentro formación constante para el uso de nuevas habilidades,  en la actualidad mi nivel profesional es de Jr. Software Developer.</h3>
 </div>
  
 <div class="container">
-  <h3>Mis proyectos forman parte de prácticas y su esquema de desarrollo los puedes consultar en mi perfil en la sección de "Repositorios" 💼.</h3> 
+  <h3>Mis proyectos forman parte de prácticas de estudio y su esquema de desarrollo los puedes consultar en mi perfil en la sección de "Repositorios" 💼.</h3> 
 </div>
 
 <div class="container">
@@ -52,6 +52,16 @@
     <div class="col">
       <img src="https://github.com/user-attachments/assets/1deeee2e-e4f6-4138-82f2-090e479a60d5" width="100px" height="100px"  name="Apis"/>
       <img src="https://github.com/user-attachments/assets/4fccdc37-ff05-4051-8366-a9d97cbf2b3d" width="100px" height="100px"  name="Sqlite"/>
+    </div>
+</div>
+
+<div class="container">
+  <h3>Code editor:</h3>
+</div>
+
+<div class="container">
+    <div class="col">
+      <img src="https://github.com/user-attachments/assets/219fe51e-e345-4409-8a13-ca4b4c34d65a" name="Visual Studio Code"/>
     </div>
 </div>
 

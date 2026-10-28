@@ -4,11 +4,11 @@
 
 <div class="container">
   <h1>Hola 🖐! me llamo José</h1>
-  <h3>Soy programador en lenguaje Python con competencia en desarrollo Backend y Frontend a nivel intermedio, siempre me encuentro formación constante para el uso de nuevas habilidades,  en la actualidad mi nivel profesional es de Jr. Software Developer.</h3>
+  <h3>Soy programador en lenguaje Python con competencia en desarrollo Backend y Frontend a nivel intermedio, siempre me encuentro formación constante para el aprendizaje de nuevas habilidades, en la actualidad mi nivel profesional es de Jr. Software Developer.</h3>
 </div>
  
 <div class="container">
-  <h3>Mis proyectos forman parte de prácticas de estudio y su esquema de desarrollo los puedes consultar en mi perfil en la sección de "Repositorios" 💼.</h3> 
+  <h3>Mis proyectos forman parte de prácticas de estudios y su esquema de desarrollo los puedes consultar en mi perfil en la sección de "Repositorios" 💼.</h3> 
 </div>
 
 <div class="container">
@@ -39,8 +39,8 @@
 
 <div class="container">
     <div class="col">
-      <img src="https://github.com/user-attachments/assets/d5936818-d8f3-4553-a5aa-bc5c3907516b" width="100px" height="100px" name="Flet"/>
       <img src="https://github.com/user-attachments/assets/b4319202-197e-44cc-b02b-02d5b0da0fbb" width="100px" height="100px" name="Django"/>
+      <img src="https://github.com/user-attachments/assets/d5936818-d8f3-4553-a5aa-bc5c3907516b" width="100px" height="100px" name="Flet"/>
     </div>
 </div>
 
@@ -50,8 +50,8 @@
 
 <div class="container">
     <div class="col">
-      <img src="https://github.com/user-attachments/assets/1deeee2e-e4f6-4138-82f2-090e479a60d5" width="100px" height="100px"  name="Apis"/>
       <img src="https://github.com/user-attachments/assets/4fccdc37-ff05-4051-8366-a9d97cbf2b3d" width="100px" height="100px"  name="Sqlite"/>
+      <img src="https://github.com/user-attachments/assets/1deeee2e-e4f6-4138-82f2-090e479a60d5" width="100px" height="100px"  name="Apis"/>
     </div>
 </div>
 
@@ -92,7 +92,6 @@
 <div class="container">
     <div class="col">
       <img src="https://github.com/user-attachments/assets/5db0e6d9-6819-4830-80e8-4e2954a7479c" width="100" height="100" name="Excel" />
-      <img src="https://github.com/user-attachments/assets/7bcc1450-015b-4bde-afdb-ed80775c27f2" height="100px" name="Power BI" />
     </div>
 </div>
 

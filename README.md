@@ -4,7 +4,7 @@
 
 <div class="container">
   <h1>Hola 🖐! me llamo José</h1>
-  <h3>Soy programador en lenguaje Python con competencia en desarrollo Backend y Frontend a nivel intermedio, siempre me encuentro formación constante para el aprendizaje de nuevas habilidades, en la actualidad mi nivel profesional es de Jr. Software Developer.</h3>
+  <h3>Soy programador en lenguaje Python con competencia en desarrollo Backend y Frontend a nivel intermedio, siempre me encuentro en formación constante para el aprendizaje de nuevas habilidades, en la actualidad mi nivel profesional es de Jr. Software Developer.</h3>
 </div>
  
 <div class="container">
